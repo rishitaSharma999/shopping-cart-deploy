@@ -1,0 +1,6 @@
+{
+    "/api/posts": "/posts?_page=:page&_limit=5",
+    "/api/posts/tag/:tag": "/posts?tags_like=tag",
+    "/api/posts/category/:category": "/posts?category=category",
+    "/api/pageInfo": "/pageInfo"
+}

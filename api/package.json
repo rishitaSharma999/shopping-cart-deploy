@@ -1,0 +1,15 @@
+{
+    "name": "json-server-project",
+    "version": "1.0.0",
+    "description": "A project to demonstrate json-server setup with custom routing",
+    "main": "server.js",
+    "scripts": {
+      "start": "node api/server.js",
+      "dev": "json-server --watch db.json --routes routes.json --port 4384"
+    },
+    "dependencies": {
+      "json-server": "^0.17.0"
+    },
+    "type": "module"
+  }
+  

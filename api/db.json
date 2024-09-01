@@ -1,0 +1,494 @@
+{
+  "posts": [
+    {
+      "id": "BLOG100",
+      "title": "10 Essential Pieces for a Timeless Wardrobe",
+      "author": "Emily Fashionista",
+      "date": "2023-01-02",
+      "category": "Fashion Trends",
+      "tags": [
+        "Fashion",
+        "Style",
+        "Wardrobe Essentials",
+        "Timeless Pieces",
+        "Investment Fashion"
+      ],
+      "content": "Building a timeless wardrobe requires investing in essential pieces that won't go out of style. Here are 10 must-haves to get you started, from classic coats to versatile dresses.",
+      "img": "https://source.unsplash.com/random/100x100?fashion,clothes"
+    },
+    {
+      "id": "BLOG200",
+      "title": "The Art of Mixing and Matching: A Guide to Creating Unique Outfits",
+      "author": "Sarah Style",
+      "date": "2023-02-14",
+      "category": "Fashion Tips",
+      "tags": [
+        "Fashion",
+        "Style",
+        "Outfit Inspiration",
+        "Mix and Match",
+        "Personal Style"
+      ],
+      "content": "Want to breathe new life into your wardrobe without buying new clothes? Learn the art of mixing and matching to create unique outfits that reflect your personal style.",
+      "img": "https://source.unsplash.com/random/100x100?fashion,clothes"
+    },
+    {
+      "id": "BLOG300",
+      "title": "Sustainable Fashion: How to Shop Second-Hand Like a Pro",
+      "author": "Lily Green",
+      "date": "2023-03-01",
+      "category": "Sustainable Fashion",
+      "tags": [
+        "Sustainable Fashion",
+        "Second-Hand Shopping",
+        "Eco-Friendly",
+        "Fashion on a Budget"
+      ],
+      "content": "Ditch fast fashion and join the sustainable fashion movement. Learn how to shop second-hand like a pro and reduce your environmental impact while staying stylish.",
+      "img": "https://source.unsplash.com/random/100x100?fashion,clothes"
+    },
+    {
+      "id": "BLOG400",
+      "title": "The Evolution of Streetwear: From Skater Culture to High Fashion",
+      "author": "James Streetwear",
+      "date": "2023-02-05",
+      "category": "Fashion History",
+      "tags": [
+        "Streetwear",
+        "Fashion History",
+        "Skater Culture",
+        "High Fashion"
+      ],
+      "content": "Streetwear has come a long way from its roots in skater culture. Explore the evolution of streetwear and how it has influenced high fashion.",
+      "img": "https://source.unsplash.com/random/100x100?fashion,clothes"
+    },
+    {
+      "id": "BLOG500",
+      "title": "5 Essential Accessories to Elevate Your Outfit",
+      "author": "Mia Accessories",
+      "date": "2023-01-20",
+      "category": "Fashion Accessories",
+      "tags": [
+        "Fashion Accessories",
+        "Outfit Inspiration",
+        "Style Tips",
+        "Accessories"
+      ],
+      "content": "Take your outfit to the next level with these 5 essential accessories. From statement hats to chic handbags, learn how to accessorize like a pro.",
+      "img": "https://source.unsplash.com/random/100x100?fashion,clothes"
+    },
+    {
+      "id": "BLOG600",
+      "title": "The Impact of Social Media on Fashion Trends",
+      "author": "Alex Influencer",
+      "date": "2023-04-10",
+      "category": "Fashion Trends",
+      "tags": [
+        "Fashion",
+        "Social Media",
+        "Trendsetters",
+        "Influencer Fashion"
+      ],
+      "content": "Discover how social media is shaping the fashion industry and influencing trends worldwide.",
+      "img": "https://source.unsplash.com/random/100x100?fashion,clothes"
+    },
+    {
+      "id": "BLOG700",
+      "title": "How to Build a Capsule Wardrobe for Any Season",
+      "author": "Carla Capsule",
+      "date": "2023-05-20",
+      "category": "Wardrobe Essentials",
+      "tags": [
+        "Capsule Wardrobe",
+        "Seasonal Fashion",
+        "Versatile Pieces",
+        "Minimalist Fashion"
+      ],
+      "content": "Learn the secrets to creating a versatile capsule wardrobe that transitions seamlessly through any season.",
+      "img": "https://source.unsplash.com/random/100x100?fashion,clothes"
+    },
+    {
+      "id": "BLOG800",
+      "title": "The Best Ethical Fashion Brands You Need to Know",
+      "author": "Ethan Ethical",
+      "date": "2023-06-15",
+      "category": "Sustainable Fashion",
+      "tags": [
+        "Ethical Fashion",
+        "Sustainable Brands",
+        "Conscious Shopping",
+        "Eco-Friendly Fashion"
+      ],
+      "content": "Explore a curated list of the best ethical fashion brands that are committed to sustainability and fair labor practices.",
+      "img": "https://source.unsplash.com/random/100x100?fashion,clothes"
+    },
+    {
+      "id": "BLOG900",
+      "title": "Vintage Fashion: A Guide to Wearing Thrifted Treasures",
+      "author": "Vivian Vintage",
+      "date": "2023-07-03",
+      "category": "Fashion Tips",
+      "tags": [
+        "Vintage Fashion",
+        "Thrifting",
+        "Style Tips",
+        "Retro Chic"
+      ],
+      "content": "Unlock the charm of vintage fashion with our guide on how to wear thrifted treasures and create a unique retro-inspired look.",
+      "img": "https://source.unsplash.com/random/100x100?fashion,clothes"
+    },
+    {
+      "id": "BLOG1000",
+      "title": "The Rise of Athleisure: Comfort Meets Style",
+      "author": "Andy Athleisure",
+      "date": "2023-08-12",
+      "category": "Fashion Trends",
+      "tags": [
+        "Athleisure",
+        "Comfortable Fashion",
+        "Casual Style",
+        "Sportswear"
+      ],
+      "content": "The athleisure trend is here to stay. Discover how to blend comfort with style and elevate your casual wear.",
+      "img": "https://source.unsplash.com/random/100x100?fashion,clothes"
+    },
+    {
+      "id": "BLOG1100",
+      "title": "The Power of Color in Fashion: How to Wear Bold Hues",
+      "author": "Cora Colorful",
+      "date": "2023-09-05",
+      "category": "Fashion Tips",
+      "tags": [
+        "Color Theory",
+        "Bold Colors",
+        "Fashion Palette",
+        "Vibrant Style"
+      ],
+      "content": "Unleash the power of color in your wardrobe. Learn how to confidently wear bold hues and create a vibrant fashion statement.",
+      "img": "https://source.unsplash.com/random/100x100?fashion,clothes"
+    },
+    {
+      "id": "BLOG1200",
+      "title": "Pattern Mixing: The Ultimate Guide to Prints and Patterns",
+      "author": "Penny Prints",
+      "date": "2023-10-18",
+      "category": "Fashion Trends",
+      "tags": [
+        "Pattern Mixing",
+        "Prints",
+        "Fashion Trends",
+        "Bold Patterns"
+      ],
+      "content": "Master the art of pattern mixing with our ultimate guide. Learn how to combine prints and patterns for a cohesive and stylish look.",
+      "img": "https://source.unsplash.com/random/100x100?fashion,clothes"
+    },
+    {
+      "id": "BLOG1300",
+      "title": "The History of Denim: From Workwear to Global Phenomenon",
+      "author": "Derek Denim",
+      "date": "2023-11-02",
+      "category": "Fashion History",
+      "tags": [
+        "Denim",
+        "Fashion History",
+        "Workwear",
+        "Global Fashion"
+      ],
+      "content": "Trace the history of denim from its humble beginnings as workwear to its status as a global fashion phenomenon.",
+      "img": "https://source.unsplash.com/random/100x100?fashion,clothes"
+    },
+    {
+      "id": "BLOG1400",
+      "title": "Footwear Trends: What's Hot This Season",
+      "author": "Felicity Footwear",
+      "date": "2023-12-15",
+      "category": "Fashion Trends",
+      "tags": [
+        "Footwear",
+        "Shoe Trends",
+        "Seasonal Fashion",
+        "Stylish Shoes"
+      ],
+      "content": "Step up your shoe game with the latest footwear trends. Find out what's hot this season and how to incorporate them into your wardrobe.",
+      "img": "https://source.unsplash.com/random/100x100?fashion,clothes"
+    },
+    {
+      "id": "BLOG1500",
+      "title": "The Future of Fashion: Innovations in Textile Technology",
+      "author": "Finn Futuristic",
+      "date": "2024-01-01",
+      "category": "Fashion Trends",
+      "tags": [
+        "Future Fashion",
+        "Textile Technology",
+        "Innovation",
+        "Smart Fabrics"
+      ],
+      "content": "Explore the cutting-edge innovations in textile technology that are shaping the future of fashion, from smart fabrics to eco-friendly materials.",
+      "img": "https://source.unsplash.com/random/100x100?fashion,clothes"
+    },
+    {
+      "id": "BLOG1600",
+      "title": "The Importance of Tailoring: How to Achieve the Perfect Fit",
+      "author": "Tara Tailor",
+      "date": "2024-02-01",
+      "category": "Fashion Tips",
+      "tags": [
+        "Tailoring",
+        "Perfect Fit",
+        "Alterations",
+        "Custom Suits"
+      ],
+      "content": "Discover the transformative power of tailoring. Learn how to achieve a perfect fit for your clothes and why it's essential for both style and comfort.",
+      "img": "https://source.unsplash.com/random/100x100?fashion,tailoring"
+    },
+    {
+      "id": "BLOG1700",
+      "title": "The Role of Accessories in Men's Fashion",
+      "author": "Aaron Accessories",
+      "date": "2024-03-15",
+      "category": "Fashion Accessories",
+      "tags": [
+        "Men's Fashion",
+        "Accessories",
+        "Style Tips",
+        "Grooming"
+      ],
+      "content": "Explore the impact of accessories in men's fashion. From watches to ties, learn how to choose and wear accessories that complement your style.",
+      "img": "https://source.unsplash.com/random/100x100?fashion,accessories"
+    },
+    {
+      "id": "BLOG1800",
+      "title": "Sustainable Fabrics: A Guide to Eco-Friendly Materials",
+      "author": "Sophia Sustainable",
+      "date": "2024-04-05",
+      "category": "Sustainable Fashion",
+      "tags": [
+        "Sustainable Fabrics",
+        "Eco-Friendly",
+        "Fashion Materials",
+        "Ethical Fashion"
+      ],
+      "content": "Dive into the world of sustainable fabrics. Learn about eco-friendly materials and how they are revolutionizing the fashion industry.",
+      "img": "https://source.unsplash.com/random/100x100?fashion,sustainable"
+    },
+    {
+      "id": "BLOG1900",
+      "title": "The History of the Little Black Dress",
+      "author": "Hannah Histoire",
+      "date": "2024-05-20",
+      "category": "Fashion History",
+      "tags": [
+        "Little Black Dress",
+        "Fashion History",
+        "Iconic Style",
+        "Coco Chanel"
+      ],
+      "content": "Trace the history of the iconic little black dress. From its inception by Coco Chanel to its status as a fashion staple, explore the timeless appeal of this classic garment.",
+      "img": "https://source.unsplash.com/random/100x100?fashion,lbd"
+    },
+    {
+      "id": "BLOG2000",
+      "title": "The Future of Fashion Retail: Innovations in Shopping Experiences",
+      "author": "Fiona Future",
+      "date": "2024-06-10",
+      "category": "Fashion Trends",
+      "tags": [
+        "Fashion Retail",
+        "Innovations",
+        "Shopping Experiences",
+        "Technology in Fashion"
+      ],
+      "content": "Look ahead to the future of fashion retail. Discover the latest innovations that are transforming the way we shop, from virtual try-ons to augmented reality.",
+      "img": "https://source.unsplash.com/random/100x100?fashion,retail"
+    },
+    {
+      "id": "BLOG2100",
+      "title": "The Power of Personal Branding in Fashion",
+      "author": "Piper Personal",
+      "date": "2024-07-05",
+      "category": "Fashion Tips",
+      "tags": [
+        "Personal Branding",
+        "Fashion Identity",
+        "Style Statement",
+        "Branding"
+      ],
+      "content": "Unlock the power of personal branding in fashion. Learn how to create a unique style statement that reflects your personal identity.",
+      "img": "https://source.unsplash.com/random/100x100?fashion,branding"
+    },
+    {
+      "id": "BLOG2200",
+      "title": "The Rise of Digital Fashion: Wearing Virtual Outfits",
+      "author": "Daisy Digital",
+      "date": "2024-08-15",
+      "category": "Fashion Trends",
+      "tags": [
+        "Digital Fashion",
+        "Virtual Outfits",
+        "Tech in Fashion",
+        "Fashion Innovation"
+      ],
+      "content": "Explore the rise of digital fashion. Discover how virtual outfits are changing the way we think about clothing and style.",
+      "img": "https://source.unsplash.com/random/100x100?fashion,digital"
+    },
+    {
+      "id": "BLOG2300",
+      "title": "The Importance of Fit in Plus-Size Fashion",
+      "author": "Paula Plus",
+      "date": "2024-09-02",
+      "category": "Fashion Tips",
+      "tags": [
+        "Plus-Size Fashion",
+        "Fit",
+        "Body Positivity",
+        "Inclusive Fashion"
+      ],
+      "content": "Learn why fit is crucial in plus-size fashion. Find tips on how to find and wear clothes that flatter your body shape and promote body positivity.",
+      "img": "https://source.unsplash.com/random/100x100?fashion,plus-size"
+    },
+    {
+      "id": "BLOG2400",
+      "title": "The Evolution of the Sneaker: From Athletic Gear to Fashion Statement",
+      "author": "Sammy Sneakers",
+      "date": "2024-10-10",
+      "category": "Fashion History",
+      "tags": [
+        "Sneakers",
+        "Fashion History",
+        "Athletic Wear",
+        "Street Style"
+      ],
+      "content": "Trace the evolution of the sneaker from its origins as athletic gear to its status as a fashion statement. Discover how sneakers have become a key element in street style and high fashion.",
+      "img": "https://source.unsplash.com/random/100x100?fashion,sneakers"
+    },
+    {
+      "id": "BLOG2500",
+      "title": "The Impact of Fast Fashion on the Environment",
+      "author": "Eva Eco",
+      "date": "2024-11-20",
+      "category": "Sustainable Fashion",
+      "tags": [
+        "Fast Fashion",
+        "Environmental Impact",
+        "Sustainable Fashion",
+        "Eco-Friendly"
+      ],
+      "content": "Understand the impact of fast fashion on the environment. Learn about the consequences of this industry and how you can make more sustainable fashion choices.",
+      "img": "https://source.unsplash.com/random/100x100?fashion,environment"
+    },
+    {
+      "id": "BLOG2600",
+      "title": "The Future of Fashion: Innovations in Textile Technology",
+      "author": "Fiona Future",
+      "date": "2024-06-10",
+      "category": "Fashion Trends",
+      "tags": [
+        "Fashion Technology",
+        "Innovations",
+        "Smart Textiles",
+        "Tech in Fashion"
+      ],
+      "content": "Explore the cutting-edge innovations in textile technology that are shaping the future of fashion. From smart fabrics to wearable electronics, discover how technology is transforming the way we interact with our clothes.",
+      "img": "https://source.unsplash.com/random/100x100?fashion,technology"
+    },
+    {
+      "id": "BLOG2700",
+      "title": "The Role of Fashion in Cultural Expression",
+      "author": "Carmen Culture",
+      "date": "2024-07-20",
+      "category": "Fashion and Culture",
+      "tags": [
+        "Cultural Fashion",
+        "Identity",
+        "Global Trends",
+        "Fashion as Art"
+      ],
+      "content": "Investigate the profound role of fashion in cultural expression. Learn how clothing and style can reflect and influence cultural identities and global trends.",
+      "img": "https://source.unsplash.com/random/100x100?fashion,culture"
+    },
+    {
+      "id": "BLOG2800",
+      "title": "The Importance of Fit in Men's Fashion",
+      "author": "Mason Menswear",
+      "date": "2024-08-30",
+      "category": "Fashion Tips",
+      "tags": [
+        "Men's Fashion",
+        "Fit",
+        "Tailoring",
+        "Style Tips"
+      ],
+      "content": "Understand the critical importance of fit in men's fashion. Discover how the right fit can enhance your appearance and confidence, and learn tips for finding and tailoring clothes that suit your body type.",
+      "img": "https://source.unsplash.com/random/100x100?fashion,menswear"
+    },
+    {
+      "id": "BLOG2900",
+      "title": "The Evolution of Denim: From Workwear to High Fashion",
+      "author": "Daisy Denim",
+      "date": "2024-09-10",
+      "category": "Fashion History",
+      "tags": [
+        "Denim",
+        "Fashion History",
+        "Workwear",
+        "High Fashion"
+      ],
+      "content": "Trace the fascinating evolution of denim from its humble beginnings as workwear to its status as a high-fashion staple. Learn about the key moments and designers that have shaped the denim industry.",
+      "img": "https://source.unsplash.com/random/100x100?fashion,denim"
+    },
+    {
+      "id": "BLOG3000",
+      "title": "The Impact of Fast Fashion on the Fashion Industry",
+      "author": "Eva Eco",
+      "date": "2024-10-20",
+      "category": "Sustainable Fashion",
+      "tags": [
+        "Fast Fashion",
+        "Fashion Industry",
+        "Ethical Fashion",
+        "Sustainable Practices"
+      ],
+      "content": "Examine the significant impact of fast fashion on the fashion industry. Learn about the challenges it poses to sustainability and ethical practices, and discover how consumers and brands are responding to these issues.",
+      "img": "https://source.unsplash.com/random/100x100?fashion,fastfashion"
+    }
+  ],
+  "pageInfo": [
+    {
+      "page": 1,
+      "pageSize": 5,
+      "totalPosts": 30,
+      "totalPages": 3
+    },
+    {
+      "page": 2,
+      "pageSize": 5,
+      "totalPosts": 30,
+      "totalPages": 3
+    },
+    {
+      "page": 3,
+      "pageSize": 5,
+      "totalPosts": 30,
+      "totalPages": 3
+    },
+    {
+      "page": 4,
+      "pageSize": 5,
+      "totalPosts": 30,
+      "totalPages": 3
+    },
+    {
+      "page": 5,
+      "pageSize": 5,
+      "totalPosts": 30,
+      "totalPages": 3
+    },
+    {
+      "page": 6,
+      "pageSize": 5,
+      "totalPosts": 30,
+      "totalPages": 3
+    }
+  ]
+}
