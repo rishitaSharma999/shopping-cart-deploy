@@ -1,4 +1,4 @@
-const BASE_URL = "https://newrepo-o3pp.onrender.com/api/v1";
+const BASE_URL = "https://shopping-cart-deploy.onrender.com/api/v1";
 
 // AUTH ENDPOINTS
 export const endpoints = {

@@ -1,1 +1,1 @@
-export const baseUrl = "http://localhost:4384";
+export const baseUrl = "https://api-m2fo.onrender.com";
